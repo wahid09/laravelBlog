@@ -3,3 +3,7 @@
 3. Database Relationship.
 4. Database Seeding.
 5. Role base permission for Admin.
+6. Create SheetJS js-xlsx.
+7. Cross site issue debugging.
+8. Re-write Authentication gard for relogin.
+9. Using Bootstrap npm
